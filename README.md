@@ -1,0 +1,2 @@
+# VirtualObjectInteractionHololens
+MSc dissertation project
