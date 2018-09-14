@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="IMG_1763" size="0.050000 0.108778"/>
+        <ImageTarget name="rgbse" size="0.200000 0.200000"/>
+        <ImageTarget name="N1_0" size="0.100000 0.126860"/>
+        <ImageTarget name="24863-32977-180219-Logo-l" size="50.000000 29.848484"/>
+        <ImageTarget name="images" size="100.000000 68.014709"/>
+        <ImageTarget name="495878092" size="50.000000 47.712418"/>
+        <ImageTarget name="cube4.Left" size="4.000000 4.000000"/>
+        <ImageTarget name="cube4.Right" size="4.000000 4.000000"/>
+        <ImageTarget name="cube4.Back" size="4.000000 4.000000"/>
+        <ImageTarget name="cube4.Front" size="4.000000 4.000000"/>
+        <ImageTarget name="cube4.Top" size="4.000000 4.000000"/>
+        <ImageTarget name="cube4.Bottom" size="4.000000 4.000000"/>
+        <MultiTarget name="cube4">
+            <Part name="cube4.Left" translation="-2.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cube4.Right" translation="2.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cube4.Front" translation="0 0 2.0" rotation="AD: 1 0 0 0"/>
+            <Part name="cube4.Back" translation="0 0 -2.0" rotation="AD: 0 1 0 180"/>
+            <Part name="cube4.Top" translation="0 2.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cube4.Bottom" translation="0 -2.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

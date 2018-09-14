@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{2626B138-51EE-C4CF-15FD-DED5B1AAA51C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HandsTrackingController.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="68" Column="53" />
+      <File FileName="Assets/Scripts/Meta.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TRY1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HandsTrackingController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.4.8RenderTry PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-13 18:22:50" name="mustardo" targetId="0e613eef97de40288e20fcef8456d22d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-13 18:28:35" name="tomatosoup" targetId="05c09ce99d5e4ee1a0ce765ad0dca2cd" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-13 18:34:59" name="rubiks" targetId="03314a89f5264355b8d5b73247bb3a46" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 14:57:43" name="timer2" targetId="daa44ca200e042559a611f36496ab820" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 16:31:38" name="sugar2" targetId="48ddd35872ee40e5b6ae6bf9b613975d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 16:58:52" name="spam" targetId="e5a7e92519574e6bae5f8cd9f8cc199b" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 15:53:19" name="maxwell_house_master_chef_coffee" targetId="cf60260782d8480a963906fa76e9460d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 16:49:48" name="jello_strawberry" targetId="1e19a25c04d040c8805149f021eabcf7" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 16:53:36" name="choclate_jello" targetId="b6cf6017358f4c98a2bbac4ce0a9b484" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-10 17:04:25" name="cheez_it" targetId="7d8c8e5bf99b4d14bad38095dc410592" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-01 12:33:43" name="starbucks_hot_grande_2" targetId="442aee45a6214c5c8b6b5e93c09d3366" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-08-01 00:31:08" name="l" targetId="3a7aa755b0de42cb9a9d659484cd08e1" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-07-14 19:56:46" name="honey" targetId="e56968a001054d5e833cea8b41daf58a" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2018-07-11 12:39:13" name="starbucks_hot_grande" targetId="d1b92f09b25f418c91209a6e094b7d13" version="2.0" />
+  </TargetSet>
+</QCARInfo>

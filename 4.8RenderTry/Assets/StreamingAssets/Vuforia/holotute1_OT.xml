@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="mustardo" />
+    <ObjectTarget name="tomatosoup" />
+    <ObjectTarget name="rubiks" />
+    <ObjectTarget name="timer2" />
+    <ObjectTarget name="sugar2" />
+    <ObjectTarget name="spam" />
+    <ObjectTarget name="maxwell_house_master_chef_coffee" />
+    <ObjectTarget name="jello_strawberry" />
+    <ObjectTarget name="choclate_jello" />
+    <ObjectTarget name="cheez_it" />
+    <ObjectTarget name="starbucks_hot_grande_2" />
+    <ObjectTarget name="l" />
+    <ObjectTarget name="honey" />
+    <ObjectTarget name="starbucks_hot_grande" />
+  </Tracking>
+</QCARConfig>
