@@ -1,4 +1,4 @@
-You will need yhe YCB dataset to execute this project http://www.ycbbenchmarks.com
+You will need yhe YCB dataset to use this project http://www.ycbbenchmarks.com
 
 # VirtualObjectInteractionHololens
 MSc dissertation project
